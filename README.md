@@ -94,5 +94,27 @@ La gateway d'Ynov permet de permettre l'accés des étudiants vers Internet.
 
 * changez l'adresse IP de votre carte WiFi pour une autre
 * ne changez que le dernier octet
+
+
 ![new_IP](changement_IP_libre.JPG)
 ![new_IPGUI](new_IP_Libre.JPG)
+
+### B. `nmap`
+![nmap](nmap_ip_libre.JPG)
+
+### C. Modification d'adresse IP (part 2)
+* 🌞 Modifiez de nouveau votre adresse IP vers une adresse IP que vous savez libre grâce à `nmap`
+
+# II. Exploration locale en duo
+
+## 3. Modification d'adresse IP
+
+![reseau](reseau.JPG)
+
+## 4. Utilisation d'un des deux comme gateway 
+![reseau](PingReseauA2.png)
+![reseau](curlgoogle.JPG)
+![reseau](Ip_Ethernet.JPG)
+
+## 5. Petit chat privé
+![reseau](chat.JPG)
