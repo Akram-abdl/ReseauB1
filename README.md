@@ -92,3 +92,5 @@ La gateway d'Ynov permet de permettre l'accés des étudiants vers Internet.
 
 🌞 Utilisez l'interface graphique de votre OS pour **changer d'adresse IP** :
 
+* changez l'adresse IP de votre carte WiFi pour une autre
+* ne changez que le dernier octet
