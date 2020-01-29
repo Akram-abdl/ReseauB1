@@ -118,3 +118,30 @@ La gateway d'Ynov permet de permettre l'accés des étudiants vers Internet.
 
 ## 5. Petit chat privé
 ![reseau](chat.JPG)
+
+## 6. Wireshark
+
+* téléchargez l'outil [Wireshark](https://www.wireshark.org/)
+* 🌞 utilisez le pour observer les trames qui circulent entre vos deux carte Ethernet. Mettez en évidence :
+  * un `ping`
+  * un `netcat`
+  * un échange pendant que le PC1 sert du PC2 comme gateway
+  * prenez moi des screens des trames en question,
+  * on décortiquera tout ça au prochain cours ensemble
+![wireshark](wireshark.JPG)
+
+## 7. Firewall
+![firewall](firewall.png)
+
+# III. Manipulations d'autres outils/protocoles côté client
+
+## 1. DHCP
+![DHCP](DHCP.JPG)
+![bail](bail.JPG)
+![renew](renew1.JPG)
+![renew](renew2.JPG)
+
+## 2. DNS
+![DNS](DNS.JPG)
+![ns](nslookup.JPG)
+![lookup](lookup2.JPG)
